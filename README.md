@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgcasey
-- 🌱 I’m currently a software enigneer at Snap.
+- 🌱 I’m currently a software engineer at Snap.
 
 <!---
 mgcasey/mgcasey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
